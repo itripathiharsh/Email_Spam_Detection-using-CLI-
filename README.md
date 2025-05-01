@@ -11,7 +11,7 @@ A machine learning-based CLI tool to classify emails as **Phishing** or **Legit*
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/itripathiharsh/Email_Spam_Detection-using-CLI->
    cd phishing-email-detector
 
 2. pip install pandas scikit-learn
