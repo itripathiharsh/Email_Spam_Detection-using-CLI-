@@ -17,7 +17,10 @@ A machine learning-based CLI tool to classify emails as **Phishing** or **Legit*
 2. pip install pandas scikit-learn
 
 3. Usage:
+
        Single-line Input -- python phishing_detector.py -m "Your email text here"
+
+
        Multiline Input -- python phishing_detector.py
                           Enter your multi-line email (press Ctrl+D or Ctrl+Z to finish):
                           Dear User,
